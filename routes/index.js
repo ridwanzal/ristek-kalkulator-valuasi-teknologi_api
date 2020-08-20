@@ -1,9 +1,9 @@
 'use strict'
 
 // all routes places in here
-const info = require('./login');
+const login = require('./login');
 
 module.exports = function(app) {
     // pass the instance of routes
-    info(app);
+    login(app);
 }
