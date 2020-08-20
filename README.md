@@ -1,4 +1,4 @@
-Dummy API
+ReSTful API
 
 Contributor
 - M. Ridwan Zalbina
